@@ -1,7 +1,7 @@
 {
   "name": "ARRK POOL",
   "ticker": "ARRK",
-  "description": "Different operators sharing their unique staking experiences and builds that best suits their lifestyles all in order to help grow the community.",
+  "description": "ARRK Pool is a single Cardano stake pool operator that aims to maximize rewards from Cardano's Ouroboros protocol while researching efficient methods for future stake pool operators.",
   "homepage": "https://arrk.live/",
   "nonce": "1631753585",
   "extended": "https://raw.githubusercontent.com/jacobneider/m/main/E"
